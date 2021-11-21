@@ -1,0 +1,28 @@
+{
+  "name": "signupform-html_nodejs_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongod": "^2.0.0",
+    "mongodb": "^4.2.0",
+    "mongoose": "^6.0.13",
+    "node": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasanth-Korada/SignUpForm-HTML_NodeJS_MongoDB.git"
+  },
+  "author": "anurag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasanth-Korada/SignUpForm-HTML_NodeJS_MongoDB/issues"
+  },
+  "homepage": "https://github.com/Vasanth-Korada/SignUpForm-HTML_NodeJS_MongoDB#readme"
+}
